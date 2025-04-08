@@ -15,7 +15,7 @@ I'm a Quality Assurance Engineer with a background in full stack software develo
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [Weather Map](github.com/gabriela-serna/weather-map) | Weather lookup & map interface | Cypress, Playwright, Selenium, Postman |
-| [Token List Manager](github.com/gabriela-serna/nest-tokenList) | Token API management with NestJS | Supertest, Manual API QA |
+| [Token List Manager](https://github.com/gabriela-serna/nest-tokenList) | Token API management with NestJS | Supertest, Manual API QA |
 | [ChatGPT Rapper](github.com/gabriela-serna/chatgpt-rapper) | AI-based lyric generator | Cypress, Exploratory Testing |
 | [The Hive](github.com/gabriela-serna/capstone) | Labor marketplace (Capstone Project) | Cypress, Manual Test Plans, API QA |
 
