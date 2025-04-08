@@ -14,10 +14,10 @@ I'm a Quality Assurance Engineer with a background in full stack software develo
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Weather Map](github.com/gabriela-serna/weather-map) | Weather lookup & map interface | Cypress, Playwright, Selenium, Postman |
+| [Weather Map](https://github.com/gabriela-serna/weather-map) | Weather lookup & map interface | Cypress, Playwright, Selenium, Postman |
 | [Token List Manager](https://github.com/gabriela-serna/nest-tokenList) | Token API management with NestJS | Supertest, Manual API QA |
-| [ChatGPT Rapper](github.com/gabriela-serna/chatgpt-rapper) | AI-based lyric generator | Cypress, Exploratory Testing |
-| [The Hive](github.com/gabriela-serna/capstone) | Labor marketplace (Capstone Project) | Cypress, Manual Test Plans, API QA |
+| [ChatGPT Rapper](https://github.com/gabriela-serna/chatgpt-rapper) | AI-based lyric generator | Cypress, Exploratory Testing |
+| [The Hive](https://github.com/gabriela-serna/capstone) | Labor marketplace (Capstone Project) | Cypress, Manual Test Plans, API QA |
 
 > Each repo includes a `qa/` folder with detailed test cases, bug reports, and automation scripts.
 
